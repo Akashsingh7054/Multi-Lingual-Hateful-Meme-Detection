@@ -1,5 +1,8 @@
 # Multi-Lingual-Hateful-Meme-Detection
+<<<<<<< HEAD
 # Multi-Lingual Hateful Meme Detection
+=======
+>>>>>>> e9de5ca5d9cb9eb3663f92e4efa706cfec4dde1e
 
 ## Project Overview
 
