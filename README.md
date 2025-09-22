@@ -1,9 +1,5 @@
 # Multi-Lingual-Hateful-Meme-Detection
 
-
-# Multi-Lingual-Hateful-Meme-Detection
-# Multi-Lingual Hateful Meme Detection
-
 ## Project Overview
 
 This project addresses the growing challenge of detecting hateful memes across multiple languages on social media platforms. Hateful memes combine text and images to convey offensive messages that target individuals or groups based on characteristics such as race, gender, ethnicity, and religion. The detection of such content requires advanced multimodal analysis techniques that can interpret both visual and textual elements simultaneously.
